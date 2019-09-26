@@ -1,0 +1,12 @@
+paper,url,head_span,head_class
+The Star,https://www.thestar.com.my/,h2,f28
+The Sun,http://www.thesundaily.my/,span,priority-content
+The Edge,http://www.theedgemarkets.com/,span,field-content
+Malaysia Kini,https://www.malaysiakini.com/,h3,None
+The Guardian,https://www.theguardian.com/uk,span,js-headline-text
+The BBC,https://www.bbc.co.uk/,span,top-story__title
+Reuters,https://uk.reuters.com/,h2,story-title
+Al Jazeera,https://www.aljazeera.com/,a,queen-top-sec-title
+Daily Main,https://www.dailymail.co.uk/home/index.html,h2,linkro-darkred
+Science Alert,https://www.sciencealert.com/,div,titletext
+Buzzfeed,https://www.buzzfeed.com/,h2,featured-card__headline link-gray

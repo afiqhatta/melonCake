@@ -1,0 +1,3 @@
+paper,url,delimiter,sec_span,sec_class,line_span,line_class,desc_span,desc_class,date_span,date_class
+The Star,https://www.thestar.com.my/search/?q={SEARCHTERM}&qsort=newest&qrec=10&qstockcode=&pgno={PAGE},+,div,col-xs-7 col-sm-9,h2,None,p,None,span,None
+The Edge,https://www.theedgemarkets.com/search-results?page={PAGE}&keywords={SEARCHTERM},%20,div,views-row,span,field-content

@@ -1,0 +1,5 @@
+Paper,Url,Delimiter
+The Star,https://www.thestar.com.my/search/?q={TERM}&qsort=newest&qrec=10&qstockcode=&pgno={PAGE},+
+The BBC,https://www.bbc.co.uk/search?q={TERM}&sa_f=search-product&scope=#page={PAGE},+
+The Edge,https://www.theedgemarkets.com/search-results?page={PAGE}&keywords={PAGE},%20
+Reuters,https://uk.reuters.com/search/news?blob={TERM},+
